@@ -151,8 +151,9 @@ h2 {
 
 .mexico-img {
   background-color: #fff;
-  max-width: 33.3%;
+  max-width: 23.3%;
   align-self: center;
+  padding: 5%;
 }
 
 .mexico-red {
